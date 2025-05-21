@@ -44,7 +44,7 @@
 </p>
 
 <h4 align="center">
-  <a href="https://chat.whatsapp.com/Lb8nqO0WNoeJfR2bUGrZXf">Group Whatsapp</a>
+  <a href="081346310302>Group Whatsapp</a>
 </h4>
   
 <h4 align="center">
@@ -239,7 +239,7 @@ Setelah itu pindai kode QR menggunakan WhatsApp Anda di ponsel Anda!
 | Delete message   |      ✔️      |
 | Report bug       |      ✔️      |
 
-|        Owner       | Availability |
+|        Owner       | rahul |
 | :----------------: | :----------: |
 | Broadcast          |      ✔️      |
 | Clear all messages |      ✔️      |
